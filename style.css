@@ -1,0 +1,49 @@
+header{
+color: rgb(5, 5, 3);
+background-color: lightpink;
+border-radius: 10px;
+text-align: center;
+font-size: 25px;
+margin: 10px;
+}
+h1{
+    font-size: 25px;
+    background-color: lightblue;
+    text-align: center;
+    border-radius: 10px ;
+}
+footer{
+    background-color: lightpink;
+text-align: center;
+border-radius: 10px;
+}
+p{
+    background-color: #a2f7e2;
+}
+h2 {
+    background-color: lightpink;
+    text-align: center;
+}
+nav{
+  border-radius: 19px;  
+  text-align: center;
+  padding: 8px;
+}
+nav,a{
+    text-decoration: none;
+    border:2px solid black;
+    margin: 2px;
+}
+a,lol{
+    background-color: rgb(239, 156, 247);
+    margin: 10px;
+}
+p,ll{
+    text-align: center;
+}
+a{
+    color: purple;
+}
+body{
+    background-color: lightgoldenrodyellow;
+}
